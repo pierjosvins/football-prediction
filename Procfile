@@ -1,1 +1,1 @@
-web: gunicorn football.wsgi --preload
+web: gunicorn football.wsgi
