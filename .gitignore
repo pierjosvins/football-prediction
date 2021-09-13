@@ -1,0 +1,8 @@
+*.pyc
+staticfiles
+*.psd
+*.pdf
+/test
+/spec
+tests.py
+models.py
