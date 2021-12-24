@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-6-^6_#jdcxi$lbjbh^i!vq&^y3gux8m1ebcy#e4+pc%r2@i5nd
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['myfootballbet.herokuapp.com']
+ALLOWED_HOSTS = ['myfootballbet.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
